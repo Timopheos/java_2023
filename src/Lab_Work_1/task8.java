@@ -14,9 +14,7 @@ public class task8 {
         System.out.print("Input Patrynomic: ");
         String secondName = in.nextLine();
 
-        System.out.println("First Name:" +firstName);
-        System.out.println("Name:" +name);
-        System.out.println("Patrynomic:" +secondName);
+        System.out.println("Hello, "  +firstName +" " +name +" " +secondName +" !");
         in.close();
     }
 }
