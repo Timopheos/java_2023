@@ -1,6 +1,6 @@
 package Lab_Work_1;
 
-class task2{
+public class task2 {
     public static void main(String[] args)
     {
         int num; // в этой строке кода объявляется
