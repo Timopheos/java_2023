@@ -12,7 +12,7 @@ import java.util.Scanner;
             System.out.print("Дней в месяце: ");
             int d = in.nextInt();
 
-            System.out.print("В ");
+            System.out.print("В");
 
             switch (month) {
                 case "Январь":
