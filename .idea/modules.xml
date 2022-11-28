@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_2023.iml" filepath="$PROJECT_DIR$/java_2023.iml" />
-      <module fileurl="file://$PROJECT_DIR$/timus/timus.iml" filepath="$PROJECT_DIR$/timus/timus.iml" />
     </modules>
   </component>
 </project>
