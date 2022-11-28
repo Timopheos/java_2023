@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="commit massage">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_1/task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_1/task16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_1/task17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timus/src/task_1293/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timus/task_1293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timus/timus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,20 +32,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "jdk.selected.JAVA_MODULE": "temurin-11",
+    "last_opened_file_path": "C:/Users/Himma/IdeaProjects/java_2023/src/timus"
   }
-}</component>
-  <component name="RunManager" selected="Application.task17">
-    <configuration name="task13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_1.task13" />
-      <module name="java_2023" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Himma\IdeaProjects\java_2023\src\timus" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="timus.task_1293" />
+      <recent name="timus" />
+      <recent name="timus.task_129" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="task_1293.main" />
+      <module name="timus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_1.*" />
+          <option name="PATTERN" value="task_1293.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.task17" />
         <item itemvalue="Application.task16" />
         <item itemvalue="Application.task15" />
         <item itemvalue="Application.task14" />
-        <item itemvalue="Application.task13" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669623521848</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit massage">
+      <created>1669631127361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669631127361</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
