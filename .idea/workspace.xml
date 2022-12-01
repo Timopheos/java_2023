@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="commit massage">
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_2/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_2/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_2/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_2/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_2/task5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,13 +52,13 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.task11">
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="task_1293.main" />
-      <module name="timus" />
+  <component name="RunManager" selected="Application.task5">
+    <configuration name="task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_2.task1" />
+      <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="task_1293.*" />
+          <option name="PATTERN" value="Lab_Work_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -61,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_1.task11" />
+    <configuration name="task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_2.task2" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_1.*" />
+          <option name="PATTERN" value="Lab_Work_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_1.task15" />
+    <configuration name="task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_2.task3" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_1.*" />
+          <option name="PATTERN" value="Lab_Work_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_1.task16" />
+    <configuration name="task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_2.task4" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_1.*" />
+          <option name="PATTERN" value="Lab_Work_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="task17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_1.task17" />
+    <configuration name="task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_2.task5" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_1.*" />
+          <option name="PATTERN" value="Lab_Work_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.task11" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.task17" />
-        <item itemvalue="Application.task16" />
-        <item itemvalue="Application.task15" />
+        <item itemvalue="Application.task5" />
+        <item itemvalue="Application.task1" />
+        <item itemvalue="Application.task4" />
+        <item itemvalue="Application.task3" />
+        <item itemvalue="Application.task2" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669635127817</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit massage">
+      <created>1669638103493</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1669638103493</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
