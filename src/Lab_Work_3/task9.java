@@ -3,6 +3,7 @@ package Lab_Work_3;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
+import java.util.Collections;
 
 public class task9 {
 
@@ -20,9 +21,9 @@ public class task9 {
 
         Random random = new Random();
 
-        for (int i = 0 ; i < nums.length ; i++ ) {
-            nums[i] = random.nextInt( 200);
-            System.out.println("Элемент массива ["+i+"] = " + nums[i]);
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = random.nextInt(200);
+            System.out.println("Элемент массива [" + i + "] = " + nums[i]);
 
         }
 
@@ -30,11 +31,20 @@ public class task9 {
 
         System.out.println("Произведена сортировка массива ");
 
-        for (int i = 0 ; i < nums.length ; i++){
-            System.out.println("Элемент массива ["+i+"] после сортировки = " + nums[i]);
+        for (int i = 0; i < nums.length; i++) {
+            System.out.println("Элемент массива [" + i + "] после сортировки = " + nums[i]);
         }
+        int max = nums[0];
+        int min = nums[0];
+        for (int i = 0; i < nums.length; i++) {
+            if (max <= nums[i])
+                max = nums[i];
+            if (min >= nums[i])
+                min = nums[i];
 
-
+        }
+        System.out.println("max: " + max);
+        System.out.println("min: " + min);
 
     }
 }
