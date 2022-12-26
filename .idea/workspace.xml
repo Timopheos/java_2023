@@ -1,23 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_4">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task1/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task3/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task5/Task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task6/Task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/timus/task_1287/Main.java" afterDir="false" />
+    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="timus">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_Work_3/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_3/task8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_Work_4/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Task2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,13 +50,13 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lab_Work_5.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task3.Main" />
+  <component name="RunManager" selected="Application.Lab_Work_5.Task2.Main">
+    <configuration name="Lab_Work_5.Task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task2.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_5.Task3.*" />
+          <option name="PATTERN" value="Lab_Work_5.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_Work_5.Task2.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lab_Work_5.Task5.Main" />
         <item itemvalue="Application.Lab_Work_5.Task4.Main" />
         <item itemvalue="Application.timus.task_1287.Main" />
-        <item itemvalue="Application.Lab_Work_5.Task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +296,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671382337560</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Lab_Work_5">
+      <created>1672074550259</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074550259</updated>
+    </task>
+    <task id="LOCAL-00025" summary="timus">
+      <created>1672074593355</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074593355</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,9 +328,10 @@
     <MESSAGE value="commit massage" />
     <MESSAGE value="LR_2" />
     <MESSAGE value="LR_3" />
-    <MESSAGE value="timus" />
     <MESSAGE value="Lab_Work_4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab_Work_4" />
+    <MESSAGE value="Lab_Work_5" />
+    <MESSAGE value="timus" />
+    <option name="LAST_COMMIT_MESSAGE" value="timus" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
