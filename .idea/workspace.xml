@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_4">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task8/Task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task1/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task2/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task3/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task4/Task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task5/Task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_5/Task6/Task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1287/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_Work_3/task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_3/task8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lab_Work_4/Task8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task8.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;temurin-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Himma/IdeaProjects/java_2023/src/timus&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Himma/IdeaProjects/Testing&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -52,13 +62,13 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task8">
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_4.Task2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Lab_Work_5.Task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task3.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_4.*" />
+          <option name="PATTERN" value="Lab_Work_5.Task3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_4.Task4" />
+    <configuration name="Lab_Work_5.Task4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task4.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_4.*" />
+          <option name="PATTERN" value="Lab_Work_5.Task4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_4.Task5" />
+    <configuration name="Lab_Work_5.Task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task5.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_4.*" />
+          <option name="PATTERN" value="Lab_Work_5.Task5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_4.Task7" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_5.Task6.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_4.*" />
+          <option name="PATTERN" value="Lab_Work_5.Task6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_4.Task8" />
+    <configuration name="timus.task_1287.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1287.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_4.*" />
+          <option name="PATTERN" value="timus.task_1287.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task8" />
-        <item itemvalue="Application.Task7" />
-        <item itemvalue="Application.Task4" />
-        <item itemvalue="Application.Task5" />
-        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Lab_Work_5.Task5.Main" />
+        <item itemvalue="Application.Lab_Work_5.Task4.Main" />
+        <item itemvalue="Application.timus.task_1287.Main" />
+        <item itemvalue="Application.Lab_Work_5.Task3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +301,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671221288385</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lab_Work_4">
+      <created>1671382337560</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1671382337560</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,5 +329,15 @@
     <MESSAGE value="timus" />
     <MESSAGE value="Lab_Work_4" />
     <option name="LAST_COMMIT_MESSAGE" value="Lab_Work_4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
