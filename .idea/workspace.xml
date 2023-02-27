@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_7">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_4/Task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_8/Task_1/KlassFile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_01_2023_22_12_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_18_01_2023_22_12__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +53,13 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Lab_Work_7.Task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_7.Task_1.Main" />
+  <component name="RunManager" selected="Application.KlassFile1">
+    <configuration name="KlassFile1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_8.Task_1.KlassFile1" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_7.Task_1.*" />
+          <option name="PATTERN" value="Lab_Work_8.Task_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.KlassFile1" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Lab_Work_7.Task_3.Main" />
         <item itemvalue="Application.Lab_Work_7.Task_4.Main" />
         <item itemvalue="Application.Lab_Work_7.Task_2.Main" />
-        <item itemvalue="Application.Lab_Work_7.Task_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -367,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674578408202</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Lab_Work_7">
+      <created>1674580382168</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1674580382168</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
