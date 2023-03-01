@@ -1,4 +1,4 @@
-package Lab_Work_8.Task_1;
+/*package Lab_Work_8.Task_1;
 
 public class KlassFile1 {
 
@@ -24,6 +24,6 @@ public class KlassFile1 {
             System.out.println("Ошибка!!! " + e);
         }
     }
-}
+}*/
 
 
