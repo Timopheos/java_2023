@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_8">
+      <change afterPath="$PROJECT_DIR$/src/timus/Task_1880/input.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_Work_8/Task_1/KlassFile1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_8/Task_1/KlassFile1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/timus/Task_1880/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/timus/Task_1880/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677519481302</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Lab_Work_8">
+      <created>1677689773952</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1677689773952</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
