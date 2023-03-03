@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_8">
-      <change afterPath="$PROJECT_DIR$/src/Lab_Work_8/Example3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_Work_8/Exemple2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_8/Example2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lab_Work_8/Exemple2/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_8/Example2/text.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_8/Example4/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +50,7 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab_Work_8.Example3.Main">
+  <component name="RunManager" selected="Application.Lab_Work_8.Example4.Main">
     <configuration name="Lab_Work_8.Example1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_Work_8.Example1.Main" />
       <module name="java_2023" />
@@ -93,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lab_Work_7.Task_5.Main" />
+    <configuration name="Lab_Work_8.Example4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_8.Example4.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lab_Work_7.Task_5.*" />
+          <option name="PATTERN" value="Lab_Work_8.Example4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_Work_8.Example4.Main" />
         <item itemvalue="Application.Lab_Work_8.Example3.Main" />
         <item itemvalue="Application.Lab_Work_8.Example2.Main" />
         <item itemvalue="Application.Lab_Work_8.Example1.Main" />
         <item itemvalue="Application.timus.Task_1880.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -411,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677852755191</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Lab_Work_8">
+      <created>1677855776902</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677855776902</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
