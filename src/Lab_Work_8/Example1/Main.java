@@ -1,10 +1,12 @@
-/*package Lab_Work_8.Task_1;
+package Lab_Work_8.Example1;
 
-public class KlassFile1 {
+import java.io.File;
+
+public class Main {
 
     public static void main(String[] args) {
         try {
-// Создание файла в текущей папке (где расположен файл KlassFile1.java)
+// Создание файла в текущей папке (где расположен файл Main.java)
             File f1 = new File("MyFile1.txt");
             f1.createNewFile();
             if (f1.exists()) {
@@ -24,6 +26,6 @@ public class KlassFile1 {
             System.out.println("Ошибка!!! " + e);
         }
     }
-}*/
+}
 
 
