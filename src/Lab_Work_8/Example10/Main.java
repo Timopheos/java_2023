@@ -8,25 +8,24 @@ public class Main {
         BufferedReader br = null;
         PrintWriter out = null;
 
-        try{
+        try {
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("E:\\Read3.txt"),"cp1251"));
+                            new FileInputStream("E:\\Read3.txt"), "cp1251"));
 
-            out = new PrintWriter("Write3.txt","cp1251");
+            out = new PrintWriter("Write3.txt", "cp1251");
 
             int lineCount = 0;
             String s;
-            while ((s = br.readLine()) != null){
+            while ((s = br.readLine()) != null) {
                 lineCount++;
-                out.println(lineCount + ": " +s);
+                out.println(lineCount + ": " + s);
 
             }
 
-        }catch (IOException e) {
+        } catch (IOException e) {
             System.out.println("Error!!!");
-        }
-        finally{
+        } finally {
             br.close();
             out.flush();
             out.close();

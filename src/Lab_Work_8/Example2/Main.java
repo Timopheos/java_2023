@@ -20,7 +20,8 @@ public class Main {
         }
 
 
-        }
+    }
+
     public static void main(String[] args) throws IOException {
         try {
             InputStream inFile = new FileInputStream("C:\\Users\\Himma\\IdeaProjects\\java_2023\\src\\Lab_Work_8\\Example2\\text.txt");
@@ -28,20 +29,20 @@ public class Main {
             System.out.print("\n\n\n");
             inFile.close();
 
-                InputStream inUrl = new URL("http://google.com").openStream();
-                readAllByByte(inUrl);
-                System.out.print("\n\n\n");
-                inUrl.close();
+            InputStream inUrl = new URL("http://google.com").openStream();
+            readAllByByte(inUrl);
+            System.out.print("\n\n\n");
+            inUrl.close();
 
-                InputStream inArray = new ByteArrayInputStream(new byte[]{7, 9, 3, 7, 4});
-                readAllByByte(inArray);
-                System.out.print("\n\n\n");
-                inArray.close();
-            } catch (IOException e) {
-                System.out.print("Error" + e);
-            }
+            InputStream inArray = new ByteArrayInputStream(new byte[]{7, 9, 3, 7, 4});
+            readAllByByte(inArray);
+            System.out.print("\n\n\n");
+            inArray.close();
+        } catch (IOException e) {
+            System.out.print("Error" + e);
         }
-
     }
+
+}
 
 

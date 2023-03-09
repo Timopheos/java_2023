@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        try{
+        try {
             File f1 = new File("E:\\My\\numIsh.txt");
             f1.createNewFile();
             Scanner sc = new Scanner(System.in, "cp1251");
@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Сколько вещественных чисел записать в файл?");
             int count = sc.nextInt();
             System.out.println("Введите числа:");
-            for(int i = 0; i < count; i++)
+            for (int i = 0; i < count; i++)
                 wr.writeFloat(sc.nextFloat());
             wr.flush();
             wr.close();
@@ -24,20 +24,21 @@ public class Main {
             DataInputStream rd = new DataInputStream(new FileInputStream(f1.getAbsolutePath()));
             wr = new DataOutputStream(new FileOutputStream(f2.getAbsolutePath()));
 
-            try{
-                while(true){
+            try {
+                while (true) {
                     float number = rd.readFloat();
                     wr.writeFloat(number);
-                    System.out.println(" Число " + (float)number);
+                    System.out.println(" Число " + (float) number);
                 }
-            }catch(EOFException e){}
+            } catch (EOFException e) {
+            }
 
             wr.flush();
             wr.close();
             rd.close();
 
 
-        }catch(IOException e){
+        } catch (IOException e) {
             System.out.println("End of file");
         }
     }

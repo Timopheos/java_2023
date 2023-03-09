@@ -9,13 +9,13 @@ public class Main {
 
     public static void readAllByArray(InputStream in) throws IOException {
         byte[] buff = new byte[5];
-        while(true){
+        while (true) {
             int count = in.read(buff);
-            if(count !=-1){
+            if (count != -1) {
                 System.out.println("количество = " + count + ", buff = "
                         + Arrays.toString(buff) + ", str = "
-                        +new String(buff,0,count,"cp1251"));
-            }else{
+                        + new String(buff, 0, count, "cp1251"));
+            } else {
                 break;
             }
         }
@@ -25,16 +25,16 @@ public class Main {
         String fileName = "E:\\MyFile2.txt";
         InputStream inFile = null;
 
-        try{
+        try {
             inFile = new FileInputStream(fileName);
             readAllByArray(inFile);
-        }catch(IOException e){
-            System.out.println("Ошибка открытия - закрытия файла " + fileName  + e);
-        }finally {
-            if(inFile !=null){
-                try{
+        } catch (IOException e) {
+            System.out.println("Ошибка открытия - закрытия файла " + fileName + e);
+        } finally {
+            if (inFile != null) {
+                try {
                     inFile.close();
-                }catch (IOException ignore){
+                } catch (IOException ignore) {
 
                 }
             }

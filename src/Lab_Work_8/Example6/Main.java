@@ -13,15 +13,14 @@ public class Main {
             out = new FileWriter("E:\\Write1.txt", true);
 
             int oneByte;
-                    while ((oneByte = in.read()) != -1) {
-                        out.write((char)oneByte);
-                        out.append((char)oneByte);
-                        System.out.print((char)oneByte);
-                    }
-        }catch(IOException e) {
+            while ((oneByte = in.read()) != -1) {
+                out.write((char) oneByte);
+                out.append((char) oneByte);
+                System.out.print((char) oneByte);
+            }
+        } catch (IOException e) {
             System.out.println("Ошибка!! ");
-        }
-        finally{
+        } finally {
             in.close();
             out.close();
         }

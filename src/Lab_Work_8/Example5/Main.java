@@ -16,24 +16,24 @@ public class Main {
             System.out.println("Введите количество строк для записи в файл => ");
             int n = sc.nextInt();
 
-            DataOutputStream dOut = new DataOutputStream( new FileOutputStream(f1));
+            DataOutputStream dOut = new DataOutputStream(new FileOutputStream(f1));
             sc.nextLine();
-            for(int i = 0; i < n; i++){
+            for (int i = 0; i < n; i++) {
                 System.out.println("Введите строку для записи в файл => ");
                 String s = sc.nextLine();
-                dOut.writeUTF(s );
+                dOut.writeUTF(s);
             }
             dOut.flush();
             dOut.close();
 
             DataInputStream dIn = new DataInputStream(new FileInputStream(f1));
 
-            while(true) {
+            while (true) {
                 System.out.println(dIn.readUTF());
             }
 
 
-        }catch(Exception e){
+        } catch (Exception e) {
             System.out.println("" + e);
         }
     }

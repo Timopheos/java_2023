@@ -23,7 +23,7 @@ public class Main {
         try {
             InputStream inFile = new FileInputStream("E:\\Read3.txt");
 
-            Reader rFile = new InputStreamReader(inFile,"cp1251");
+            Reader rFile = new InputStreamReader(inFile, "cp1251");
 
             readAllByByte(rFile);
             System.out.print("\n\n\n");
@@ -38,7 +38,7 @@ public class Main {
             inUrl.close();
             rUrl.close();
 
-            InputStream inArray = new ByteArrayInputStream(new byte[] {5, 8, 3, 9, 11});
+            InputStream inArray = new ByteArrayInputStream(new byte[]{5, 8, 3, 9, 11});
             Reader rArray = new InputStreamReader(inArray, "cp1251");
 
             readAllByByte(rArray);
@@ -46,7 +46,7 @@ public class Main {
             inArray.close();
             rArray.close();
 
-        }catch (IOException e){
+        } catch (IOException e) {
             System.out.print("Error: " + e);
         }
     }
