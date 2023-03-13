@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="timus">
+    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_8">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Lab_Work_8/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lab_Work_8/Task_1/Main.java" afterDir="false" />
     </list>
@@ -139,13 +139,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669373617370</updated>
-    </task>
-    <task id="LOCAL-00001" summary="commit massage">
-      <created>1669556447934</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1669556447934</updated>
     </task>
     <task id="LOCAL-00002" summary="commit massage">
       <created>1669556803187</created>
@@ -483,7 +476,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678728929872</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Lab_Work_8">
+      <created>1678733008036</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1678733008037</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,9 +506,9 @@
     <MESSAGE value="Lab_Work_4" />
     <MESSAGE value="Lab_Work_6" />
     <MESSAGE value="Lab_Work_7" />
-    <MESSAGE value="Lab_Work_8" />
     <MESSAGE value="timus" />
-    <option name="LAST_COMMIT_MESSAGE" value="timus" />
+    <MESSAGE value="Lab_Work_8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab_Work_8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,9 +15,9 @@ public class Main {
 
         out.writeUTF("Shawerma");
         out.writeUTF("Tesrow");
-        out.writeDouble(2.654654);
+        out.writeDouble(-2.654654);
         out.writeDouble(3425.324);
-        out.writeDouble(545);
+        out.writeDouble(-545);
 
 
         File f2 = new File("E:\\Study_2022\\Files\\File2.txt");
@@ -31,22 +31,18 @@ public class Main {
         Double s4 = in.readDouble();
         Double s5 = in.readDouble();
 
+        out2.writeUTF(s2);
+
         Double[] d1 = new Double[3];
         d1[0] = s3;
         d1[1] = s4;
         d1[2] = s5;
 
-        Arrays.sort(d1);
-
-
-        out2.writeUTF(s2);
-        out2.writeDouble(d1[2]);
-        DataInputStream in2 = new DataInputStream(new FileInputStream(f2));
-        String d21 = in2.readUTF();
-        Double d22 = in2.readDouble();
-        System.out.println(d21);
-        System.out.println(d22);
-
+        for (int i = 0; i < 2; i++){
+            if (d1[i] > 0) {
+                out2.writeDouble(d1[i]);
+            }
+        }
 
         in.close();
         out.close();
