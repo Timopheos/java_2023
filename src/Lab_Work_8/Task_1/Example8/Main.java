@@ -1,4 +1,4 @@
-package Lab_Work_8.Example8;
+package Lab_Work_8.Task_1.Example8;
 
 import java.io.*;
 import java.net.URL;

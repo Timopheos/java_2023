@@ -1,8 +1,6 @@
-package Lab_Work_8.Task_1;
+package Lab_Work_8.Task_2;
 
 import java.io.*;
-import java.util.Arrays;
-import java.util.Scanner;
 
 public class Main {
 

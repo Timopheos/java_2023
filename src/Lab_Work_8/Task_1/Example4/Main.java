@@ -1,4 +1,4 @@
-package Lab_Work_8.Example4;
+package Lab_Work_8.Task_1.Example4;
 
 import java.io.*;
 import java.util.Scanner;

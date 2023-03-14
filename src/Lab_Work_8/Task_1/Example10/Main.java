@@ -1,34 +1,34 @@
-package Lab_Work_8.Example7;
+package Lab_Work_8.Task_1.Example10;
 
 import java.io.*;
 
 public class Main {
-
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = null;
-        BufferedWriter out = null;
+        PrintWriter out = null;
+
         try {
-            br = new BufferedReader(new FileReader("E:\\Read2.txt"), 1024);
-            out = new BufferedWriter(new FileWriter("E:\\Write2.txt"));
+            br = new BufferedReader(
+                    new InputStreamReader(
+                            new FileInputStream("E:\\Read3.txt"), "cp1251"));
+
+            out = new PrintWriter("Write3.txt", "cp1251");
 
             int lineCount = 0;
             String s;
-
             while ((s = br.readLine()) != null) {
                 lineCount++;
-                System.out.println(lineCount + ": " + s);
-                out.write(s);
-                out.newLine();
+                out.println(lineCount + ": " + s);
+
             }
 
         } catch (IOException e) {
-            System.out.println("Ошибка!!!!");
+            System.out.println("Error!!!");
         } finally {
             br.close();
             out.flush();
             out.close();
-
         }
     }
 }

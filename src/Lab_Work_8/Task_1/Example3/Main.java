@@ -1,4 +1,4 @@
-package Lab_Work_8.Example3;
+package Lab_Work_8.Task_1.Example3;
 
 import java.io.FileInputStream;
 import java.io.IOException;

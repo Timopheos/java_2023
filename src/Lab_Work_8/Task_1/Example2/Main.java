@@ -1,4 +1,4 @@
-package Lab_Work_8.Example2;
+package Lab_Work_8.Task_1.Example2;
 
 import java.io.ByteArrayInputStream;
 import java.io.FileInputStream;

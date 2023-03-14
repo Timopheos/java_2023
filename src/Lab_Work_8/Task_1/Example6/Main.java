@@ -1,4 +1,4 @@
-package Lab_Work_8.Example6;
+package Lab_Work_8.Task_1.Example6;
 
 import java.io.*;
 
