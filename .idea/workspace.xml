@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="Lab_Work_8">
-      <change afterPath="$PROJECT_DIR$/src/timus/Task_1209/Main.java" afterDir="false" />
+    <list default="true" id="87239702-5555-402c-b61e-3fccc37178fa" name="Changes" comment="timus">
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_9/Task_1/Example_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab_Work_9/Task_1/Example_2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,13 +56,39 @@
       <recent name="timus.task_129" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.timus.Task_1209.Main">
+  <component name="RunManager" selected="Application.Lab_Work_9.Task_1.Example_2.Main">
     <configuration name="Lab_Work_8.Task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lab_Work_8.Task_3.Main" />
       <module name="java_2023" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Lab_Work_8.Task_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_Work_9.Task_1.Example_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_9.Task_1.Example_1.Main" />
+      <module name="java_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab_Work_9.Task_1.Example_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_Work_9.Task_1.Example_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lab_Work_9.Task_1.Example_2.Main" />
+      <module name="java_2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lab_Work_9.Task_1.Example_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,39 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus.Task_1639.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task_1639.Main" />
-      <module name="java_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timus.Task_1639.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="timus.Task_1910.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.Task_1910.Main" />
-      <module name="java_2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timus.Task_1910.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab_Work_9.Task_1.Example_2.Main" />
+        <item itemvalue="Application.Lab_Work_9.Task_1.Example_1.Main" />
         <item itemvalue="Application.timus.Task_1209.Main" />
         <item itemvalue="Application.Lab_Work_8.Task_3.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.timus.Task_1910.Main" />
-        <item itemvalue="Application.timus.Task_1639.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,13 +140,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669373617370</updated>
-    </task>
-    <task id="LOCAL-00004" summary="commit massage">
-      <created>1669558640241</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1669558640241</updated>
     </task>
     <task id="LOCAL-00005" summary="commit massage">
       <created>1669560367419</created>
@@ -483,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678814342842</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="timus">
+      <created>1678989583036</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1678989583036</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -506,9 +507,9 @@
     <MESSAGE value="Lab_Work_4" />
     <MESSAGE value="Lab_Work_6" />
     <MESSAGE value="Lab_Work_7" />
-    <MESSAGE value="timus" />
     <MESSAGE value="Lab_Work_8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab_Work_8" />
+    <MESSAGE value="timus" />
+    <option name="LAST_COMMIT_MESSAGE" value="timus" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
