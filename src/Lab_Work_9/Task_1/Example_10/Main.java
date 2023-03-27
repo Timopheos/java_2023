@@ -1,22 +1,17 @@
-package Lab_Work_9.Task_1.Example_8;
-
+package Lab_Work_9.Task_1.Example_10;
 
 public class Main {
     public static int m() {
         try {
-
             System.out.println("0");
-            throw new RuntimeException();
-
+            return 15;
         } finally {
             System.out.println("1");
-            return 2;
+            return 20;
         }
-
     }
 
     public static void main(String[] args) {
         System.out.println(m());
     }
 }
-
