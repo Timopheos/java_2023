@@ -11,12 +11,16 @@ public class Main {
         int l = 6;
         int[] Arr = new int[l];
 
-        for (int i = 0; i < l; i++) {
-            System.out.println("Введите значение элемента массива № " + i + ": ");
-            int d = in.nextInt();
-            Arr[i] = d;
-            System.out.println(Arr[i]);
-        }
+        try {
+
+            for (int i = 0; i < l; i++) {
+                System.out.println("Введите значение элемента массива № " + i + ": ");
+                int d = Integer.parseInt(in.nextLine());
+                Arr[i] = d;
+                System.out.println(Arr[i]);
+            }
+
+
 
         int e = 0;
         int w = 0;
@@ -32,6 +36,10 @@ public class Main {
 
         System.out.println("Среднее значение положительных чисел = " + average);
         System.out.println(Arrays.toString(Arr));
+
+        }catch (NumberFormatException e){
+            System.out.println("Некорректное значение");
+        }
 
     }
 
