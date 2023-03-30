@@ -32,6 +32,10 @@ public class Main {
             }
         }
 
+        if (w == 0) {
+            throw new ArithmeticException("Деление на 0.");
+        }
+
         int average = e / w;
 
         System.out.println("Среднее значение положительных чисел = " + average);
@@ -39,6 +43,8 @@ public class Main {
 
         }catch (NumberFormatException e){
             System.out.println("Некорректное значение");
+        }catch (ArithmeticException e){
+            System.out.println("Нет положительных значений");
         }
 
     }
